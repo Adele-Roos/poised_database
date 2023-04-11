@@ -70,10 +70,10 @@ CONTRIBUTING
 
 Contributions to the Poised database project are welcome. To contribute, please fork the repository, make your changes, and submit a pull request.
 
-License
+LICENSE
 
 The Poised database project is licensed under the MIT license.
 
-Contact
+CONTACT
 
 If you have any questions or feedback about the Poised database project, please contact us at info@poised.com.
